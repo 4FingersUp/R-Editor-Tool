@@ -2,8 +2,16 @@
 Rockstar Editor Tool For FiveM Servers
 
 # Keybinds
-Start Recording *F13
+Start Recording
 
-Stop Recording *F14
+F13
 
-Open Rockstar Editor *F15
+
+Stop Recording
+
+F14
+
+
+Open Rockstar Editor
+
+F15
